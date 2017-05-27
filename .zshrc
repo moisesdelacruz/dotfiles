@@ -79,6 +79,7 @@ export LC_CTYPE=es_MX.UTF-8
 autoload -Uz compinit
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 alias screenfetch="screenfetch -w -c 31,3"
+alias yaourt="yaourt --pager --color "
 ./.pacman.sh
 
 man() {
