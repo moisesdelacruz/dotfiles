@@ -1,11 +1,11 @@
 # Path to your oh-my-zsh installation.
 export ZSH=/home/andrea/.oh-my-zsh
 
-# Set name of the theme to load.
-ZSH_THEME="powerlevel9k/powerlevel9k"
-
 # Font mode for powerlevel9k
 POWERLEVEL9K_MODE="nerdfont-complete"
+
+# Set name of the theme to load.
+ZSH_THEME="powerlevel9k/powerlevel9k"
 
 # OS segment
 POWERLEVEL9K_DIR_FOREGROUND='red'
@@ -42,8 +42,8 @@ POWERLEVEL9K_SHORTEN_STRATEGY="truncate_from_right"
 # Separators
 POWERLEVEL9K_LEFT_SEGMENT_SEPARATOR=$'\ue0ce'
 POWERLEVEL9K_LEFT_SUBSEGMENT_SEPARATOR=$'\ue0cf'
-POWERLEVEL9K_RIGHT_SEGMENT_SEPARATOR=$'\ue0c7'
-POWERLEVEL9K_RIGHT_SUBSEGMENT_SEPARATOR=$'\ue0c7'
+POWERLEVEL9K_RIGHT_SEGMENT_SEPARATOR=$'\ue0c5'
+POWERLEVEL9K_RIGHT_SUBSEGMENT_SEPARATOR=$'\ue0b7'
 
 # VCS Config
 # Icons
@@ -58,10 +58,10 @@ POWERLEVEL9K_VCS_UNSTAGED_ICON=$''
 POWERLEVEL9K_VCS_UNTRACKED_ICON=$''
 # Colors
 POWERLEVEL9K_VCS_MODIFIED_BACKGROUND='black'
-POWERLEVEL9K_VCS_MODIFIED_FOREGROUND='yellow'
+POWERLEVEL9K_VCS_MODIFIED_FOREGROUND='red'
 POWERLEVEL9K_VCS_UNTRACKED_BACKGROUND='black'
-POWERLEVEL9K_VCS_UNTRACKED_FOREGROUND='cyan'
-POWERLEVEL9K_VCS_CLEAN_BACKGROUND='black'
+POWERLEVEL9K_VCS_UNTRACKED_FOREGROUND='green'
+POWERLEVEL9K_VCS_CLEAN_BACKGROUND='white'
 POWERLEVEL9K_VCS_CLEAN_FOREGROUND='green'
 
 # Thumbs icons
@@ -87,8 +87,8 @@ POWERLEVEL9K_CUSTOM_WIFI_SIGNAL_BACKGROUND='blue'
 # Prompt settings
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
 POWERLEVEL9K_RPROMPT_ON_NEWLINE=true
-POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX="%K{black}%F{green}\ue0ce"
-POWERLEVEL9K_MULTILINE_SECOND_PROMPT_PREFIX="%K{black}%F{green}\ue0ce%F{yellow}  \Uf155 %f%k%F{black}\ue0ce%f "
+POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX="%K{black}"
+POWERLEVEL9K_MULTILINE_SECOND_PROMPT_PREFIX="%K{blue}%F{yellow} \Uf155 %f%k%F{blue}\ue0ce%f "
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(os_icon context dir vcs)
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status background_jobs custom_wifi_signal battery)
 
@@ -111,7 +111,7 @@ autoload -Uz compinit
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 alias screenfetch="screenfetch -w -c 31,3"
-alias yaourt="yaourt --pager --color "
+alias yaourt="yaourt --pager --color"
 ~/.pacman.sh
 
 man() {
