@@ -34,7 +34,9 @@ man() {
 # Aliases for a few useful commands
 alias screenfetch="screenfetch -w -c 31,3"
 alias yaourt="yaourt --pager --color"
+alias mandelbrot="~/.mandelbrot"
 alias pacmanghost="~/.pacman.sh"
+alias emacs="emacs -nw"
 alias x="ranger"
 alias c="cmus"
 alias h="htop"
