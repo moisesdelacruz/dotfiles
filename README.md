@@ -21,7 +21,7 @@
 2. xfce4-notifyd (Helpful to get GTK notifications like current song or battery status)
 
 ### Some cool things:
-![A tour](https://j.gifs.com/Z4J6LE.gif)
+![Bragging](https://github.com/da-edra/dotfiles/blob/master/.bragging.jpg)
 
 ### This is how it looks like when using a dual monitor setup:
 I'm receiving Spotify and battery status gtk notifications.
