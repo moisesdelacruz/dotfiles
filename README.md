@@ -23,7 +23,7 @@
 ### This is how it looks like:
 ![Desktop](https://github.com/da-edra/dotfiles/blob/master/.desktop.png)
 
-### An old recording of my desktop with some cool things:
-![Bragging](https://www.youtube.com/watch?v=vIjWFfd9Ch0)
+### Watch an old recording of my desktop with some cool things:
+[![Bragging]](https://github.com/da-edra/dotfiles/blob/master/.bragging.png)(https://www.youtube.com/watch?v=vIjWFfd9Ch0)
 
 Feel free to clone or fork my repo, if you make any interesting modifications, please share them with us! :)
