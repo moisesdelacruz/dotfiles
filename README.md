@@ -20,11 +20,10 @@
 1. xfce4-power-manager (Simple way to monitor battery status)
 2. xfce4-notifyd (Helpful to get GTK notifications like current song or battery status)
 
-### Some cool things:
-![Bragging](https://github.com/da-edra/dotfiles/blob/master/.bragging.jpg)
-
-### This is how it looks like when using a dual monitor setup:
-I'm receiving Spotify and battery status gtk notifications.
+### This is how it looks like:
 ![Desktop](https://github.com/da-edra/dotfiles/blob/master/.desktop.png)
+
+### An old recording of my desktop with some cool things:
+![Bragging](https://www.youtube.com/watch?v=vIjWFfd9Ch0)
 
 Feel free to clone or fork my repo, if you make any interesting modifications, please share them with us! :)
