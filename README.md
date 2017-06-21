@@ -10,7 +10,7 @@
 
 #### For the window manager:
 1. i3-gaps
-2. i3blocks (This is a replacement for the default i3bar)
+2. i3blocks (This is a replacement for the default i3status)
 3. Nerd Fonts patched fonts (I use Source Code Pro and Roboto Mono)
 4. Rofi (Replacement for dmenu)
 6. Compton (Compositor to get window transparency)
