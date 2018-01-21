@@ -23,14 +23,14 @@
                                                         
 ## Welcome to my dotfiles!
 
-#### I needed a Zsh + i3-gaps + i3blocks that was beautiful and functional as well as lightweight and CLI focused. 
+#### I needed a Zsh + i3-gaps + i3blocks config that was beautiful and functional as well as lightweight and CLI focused. 
 But I was struggling to find a Zsh theme and configs that had what I was looking for so I made my own Zsh theme using Powerlevel9k!
 
 I then wrote my own i3-gaps and i3blocks configs to look gorgeous while making my workflow smoother.
 
 I'm including some screenshots on this repo and a list of dependencies in case you want to clone/fork my repo :)
 
-#### Made with ❤ by yours trully
+#### Made with ❤ by yours truly
 
 ##### For the Shell:
 0. Arch Linux (Just kidding any distro is fine).
