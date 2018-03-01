@@ -54,7 +54,7 @@ I'm including some screenshots on this repo and a list of dependencies in case y
 ![Spacemacs](https://github.com/da-edra/dotfiles/blob/master/.git-tracking.png)
 
 ### My [Rofi](https://github.com/DaveDavenport/rofi) theme:
-##### Displays unobtrusively at the top and allows to quickly launch applications (even CLI!) or switch within windows.
+##### Displays unobtrusively at the top and allows you to quickly launch applications (even CLI!) or switch within windows.
 ###### My theme and config are included in this repo inside .config/rofi/
 ![Application launcher](https://github.com/da-edra/dotfiles/blob/master/.rofi-drun.png)
 ![Window switcher](https://github.com/da-edra/dotfiles/blob/master/.rofi-window.png)
