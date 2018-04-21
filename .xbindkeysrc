@@ -8,6 +8,11 @@
    m:0x0 + c:123
    XF86AudioRaiseVolume
 
+# Change keys en es
+"setxkbmap us"
+    m:0x1 + c:50
+    Shift + Shift_L
+
 # Decrease volume
 "pulseaudio-ctl down"
    m:0x0 + c:122
